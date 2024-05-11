@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Person</string>
+    <string name="registrate">Registrate</string>
+    <string name="iniciar">Iniciar</string>
+</resources>
